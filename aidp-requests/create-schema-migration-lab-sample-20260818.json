@@ -1,0 +1,10 @@
+{
+  "catalogName": "default",
+  "displayName": "migration_lab_sample_20260818",
+  "description": "Migrated sample Hive database from BDS nams_test for same-tenancy BDS-to-AIDP validation",
+  "properties": {
+    "source": "bds:nams_test",
+    "sourceHiveDatabase": "migration_lab_sample_20260818",
+    "migrationRun": "bds_to_aidp_hive_sample_full_migration_20260818"
+  }
+}
